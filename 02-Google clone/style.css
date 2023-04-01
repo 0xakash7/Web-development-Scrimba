@@ -1,0 +1,40 @@
+.main{
+  margin-top: 100px;
+  text-align: center;
+}
+.logo-img{
+  display: block;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.search-input{
+  display: block;
+  width:400px;
+  margin-left: auto;
+  margin-right: auto;
+
+  line-height: 24px;
+  padding: 10px 30px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+}
+.btn{
+  
+  
+  margin: 10px;
+
+  padding: 5px 10px;
+  background: #dfe1e5;
+  border: none ;
+  border-radius: 3px;
+  font-size: 14px;
+}
+
+.btn-wrapper{
+  display: flex;
+  justify-content: center;
+  
+}
